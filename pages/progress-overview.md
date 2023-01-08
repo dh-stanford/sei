@@ -5,7 +5,7 @@ permalink: progress.html
 layout: "layouts/post.njk"
 ---
 
-![Adlam approval, 2014](/static/img/adlam.jpg)
+![Adlam approval, 2014](/sei/static/img/adlam.jpg)
 *Adlam approval, 2014*
 
 

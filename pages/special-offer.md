@@ -5,7 +5,7 @@ date: 2022-11-30
 layout: "layouts/post.njk"
 ---
 
-![Unicode 14 posters](/static/img/unicode_posters.jpg)
+![Unicode 14 posters](/sei/static/img/unicode_posters.jpg)
 
 The new Unicode 14.0 posters created by ANRT and IDG, now available in limited quantities to North American residents!
 
@@ -15,7 +15,7 @@ A donation of $50 to or more to the Script Encoding Initiative entitles you to r
 
 ## Unicode 5.0 BMP poster created by DecodeUnicode
 
-![Unicode 5 poster](/static/img/unicode5_poster.jpg)
+![Unicode 5 poster](/sei/static/img/unicode5_poster.jpg)
 
 A donation of $50 or more to the Script Encoding Initiative entitles you to receive a poster showing all the characters on Unicode 5.0's Basic Multilingual Plane (BMP). Created by the decodeunicode project, the poster measures 1.17 × 1.75 m (approximately 3'10" × 5' 9").
 

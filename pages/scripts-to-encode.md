@@ -5,7 +5,7 @@ permalink: "scripts-to-encode.html"
 layout: "layouts/post.njk"
 ---
 
-![Two documents](/static/img/twodocs.jpg)
+![Two documents](/sei/static/img/twodocs.jpg)
 
 
 The SEI maintains:
