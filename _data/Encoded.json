@@ -1,0 +1,533 @@
+[
+	{"name": "Adlam",
+	"link": "http://www.unicode.org/L2/L2021/21020-adinkra.pdf",
+	"contact": "Everson"},
+		
+	{"name": "Ahom",
+	"link": "http://www.unicode.org/L2/L2012/12309r-n4321r.pdf",
+	"contact": "Hosken and Morey"},
+		
+	{"name": "Anatolian Hieroglyphs",
+	"link": "http://www.unicode.org/L2/L2012/12213-n4282-anatolian.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Arabic (additions, for Khowar, Torwali, Burushaski)",
+	"link": "http://www.unicode.org/L2/L2006/06149-bashir-prop.pdf",
+	"contact": "Bashir, Hassain and Anderson"},
+	
+	{"name": "Arabic (additions, for Kashmiri)",
+	"link": "http://www.unicode.org/L2/L2009/09215-kashmiri.pdf",
+	"contact": "Aazim, Mansour and Pournader"},
+	
+	{"name": "Arabic Mathematical Alphabetic Symbols",
+	"link": "http://www.unicode.org/L2/L2010/10105r-n3799.pdf",
+	"contact": "Lazrek, Sargent, Pournader, Allawi and Anderson"},
+	
+	{"name": "Avestan",
+	"link": "https://www.unicode.org/L2/L2007/07006r-n3197r-avestan.pdf",
+	"contact": "Everson and Pournader"},
+	
+	{"name": "Balinese",
+	"link": "http://www.unicode.org/L2/L2005/05008-n2908-balinese.pdf",
+	"contact": "Everson and Suatjana"},
+	
+	{"name": "Bamum (modern characters)",
+	"link": "http://www.unicode.org/L2/L2008/08350-n3522-bamum.pdf",
+	"contact": "Everson, Riley and Tuchscherer"},
+	
+	{"name": "Bamum Supplement (historic characters)",
+	"link": "http://www.unicode.org/L2/L2009/09102-n3597-bamum-ext.pdf",
+	"contact": "Everson, Riley and Tuchscherer"},
+	
+	{"name": "Bassa Vah",
+	"link": "http://www.unicode.org/L2/L2010/10382r-n3941r-bassavah.pdf",
+	"contact": "Everson and Riley"},
+	
+	{"name": "Batak",
+	"link": "http://www.unicode.org/L2/L2008/08011r-n3320r-batak.pdf",
+	"contact": "Everson and Kozok"},
+	
+	{"name": "Bhaiksuki",
+	"link": "http://www.unicode.org/L2/L2014/14091-bhaiksuki.pdf",
+	"contact": "Pandey and Dimitrov"},
+	
+	{"name": "Brahmi",
+	"link": "http://www.unicode.org/L2/L2007/07342-brahmi.pdf",
+	"contact": "Glass and Baums"},
+	
+	{"name": "Buginese",
+	"link": "http://www.unicode.org/L2/L2003/03320r-n2633r-lontara.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Carian",
+	"link": "http://www.unicode.org/L2/L2005/05386-n3020-carian.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Caucasian Albanian",
+	"link": "http://www.unicode.org/L2/L2011/11296r-n4131r-caucasian-albanian.pdf",
+	"contact": "Everson and Gippert"},
+	
+	{"name": "Chakma",
+	"link": "http://www.unicode.org/L2/L2009/09187r-n3645r-chakma.pdf",
+	"contact": "Everson and Hosken"},
+	
+	{"name": "Cham",
+	"link": "http://www.unicode.org/L2/L2006/06257-n3120-cham.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Chorasmian",
+	"link": "http://www.unicode.org/L2/L2018/18164r2-chorasmian.pdf",
+	"contact": ""},
+	
+	{"name": "Coptic",
+	"link": "http://www.unicode.org/L2/L2004/04130-n2744-coptic.pdf",
+	"contact": "Everson and Emmel"},
+	
+	{"name": "Coptic Epact Numbers",
+	"link": "http://www.unicode.org/L2/L2011/11062r-coptic-epact.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Cuneiform",
+	"link": "http://www.unicode.org/L2/L2004/04189-n2786-cuneiform.pdf",
+	"contact": "Everson, Feuerherm and Tinney"},
+	
+	{"name": "Cuneiform (additions)",
+	"link": "http://www.unicode.org/L2/L2012/12207r-n4277r-cuneiform-add.pdf",
+	"contact": "Everson and Tinney"},
+	
+	{"name": "Cypriot",
+	"link": "http://www.unicode.org/L2/L2001/01370-n2378.pdf",
+	"contact": "Everson and Anderson"},
+	
+	{"name": "Cypro-Minoan",
+	"link": "http://www.unicode.org/L2/L2020/20154-n5135-cyprominoan.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Cyrillic (additions)",
+	"link": "http://www.unicode.org/L2/L2007/07003r-n3194r-cyrillic.pdf",
+	"contact": "Everson, Baranov and Rabus (for Slavonic) and Everson, Birnbaum, Cleminson, et al. (for other additions)"},
+	
+	
+	{"name": "Dives Akuru (Divehi)",
+	"link": "https://www.unicode.org/L2/L2018/18016r-dives-akuru.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Dogra",
+	"link": "http://www.unicode.org/L2/L2015/15234r-dogra.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Duployan",
+	"link": "http://www.unicode.org/L2/L2010/10272r2-duployan.pdf",
+	"contact": "Van Anderson"},
+	
+	{"name": "Early Dynastic Cuneiform",
+	"link": "http://www.unicode.org/L2/L2012/12208-n4278-early-dynastic-cuneiform.pdf",
+	"contact": "Crisostomo and Everson"},
+	
+	{"name": "Egyptian Hieroglyphs (Gardiner set)",
+	"link": "http://www.unicode.org/L2/L2007/07097-n3237-egyptian.pdf",
+	"contact": "Everson and Richmond"},
+	
+	{"name": "Elbasan",
+	"link": "http://www.unicode.org/L2/L2011/11050-n3985-elbasan.pdf",
+	"contact": ""},
+	
+	{"name": "Elymaic",
+	"link": "http://www.unicode.org/L2/L2017/17226r-elymaic.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Georgian (additions for Ossetian and Abkhaz)",
+	"link": "http://www.unicode.org/L2/L2010/10072-n3775-georgian.pdf",
+	"contact": "Everson, Melkadze, Pentzlin and Yevlampiev"},
+	
+	{"name": "Glagolitic",
+	"link": "http://www.unicode.org/L2/L2003/03282r-glagolitic.pdf",
+	"contact": "Everson and Cleminson"},
+	
+	{"name": "Gondi-Gunjala",
+	"link": "http://www.unicode.org/L2/L2015/15235-gunjala-gondi.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Gondi-Masaram",
+	"link": "http://www.unicode.org/L2/L2015/15090r-masaram-gondi.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Hanifi Rohingya",
+	"link": "http://www.unicode.org/L2/L2016/16311r-hanifi-rohingya.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Hatran",
+	"link": "http://www.unicode.org/L2/L2012/12312-n4324-hatran.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Imperial Aramaic",
+	"link": "http://www.unicode.org/L2/L2007/07288-n3339-aramaic.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Inscriptional Pahlavi",
+	"link": "http://www.unicode.org/L2/L2007/07207r-n3286r-parthian-pahlavi.pdf",
+	"contact": "Everson and Pournader"},
+	
+	{"name": "Inscriptional Parthian",
+	"link": "http://www.unicode.org/L2/L2007/07207r-n3286r-parthian-pahlavi.pdf",
+	"contact": "Everson and Pournader"},
+	
+	{"name": "Javanese",
+	"link": "http://www.unicode.org/L2/L2007/07295-javanese.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Kaithi",
+	"link": "http://www.unicode.org/L2/L2007/07418-kaithi.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Kayah Li",
+	"link": "http://www.unicode.org/L2/L2006/06073-n3038r-kayahli.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Khitan Small Script",
+	"link": "http://www.unicode.org/L2/L2016/16245r-n4738r2-khitan-small.pdf",
+	"contact": "West et al."},
+	
+	{"name": "Khojki",
+	"link": "http://www.unicode.org/L2/L2011/11021-khojki.pdf",
+	"contact": ""},
+	
+	
+	{"name": "Khudawadi",
+	"link": "http://www.unicode.org/L2/L2011/11022-khudawadi.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Latin (additions for medievalists)",
+	"link": "http://www.unicode.org/L2/L2006/06027-n3027-medieval.pdf",
+	"contact": "Everson, Baker et al."},
+	
+	
+	{"name": "Lepcha",
+	"link": "http://www.unicode.org/L2/L2005/05158-n2947-lepcha.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Linear A",
+	"link": "http://www.unicode.org/L2/L2010/10422-n3973-lineara.pdf",
+	"contact": "Everson and Younger"},
+	
+	{"name": "Linear B",
+	"link": "http://www.unicode.org/L2/L2001/01370-n2378.pdf",
+	"contact": "Everson and Anderson"},
+	
+	{"name": "Lycian",
+	"link": "http://www.unicode.org/L2/L2006/06050-n3019r2-lydian-lycian.pdf",
+	"contact": "Everson"},
+		
+	{"name": "Lydian",
+	"link": "http://www.unicode.org/L2/L2006/06050-n3019r2-lydian-lycian.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Mahajani",
+	"link": "http://www.unicode.org/L2/L2011/11274-n4126-mahajani.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Makasar",
+	"link": "http://www.unicode.org/L2/L2015/15233-makasar.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Masaram Gondi",
+	"link": "http://www.unicode.org/L2/L2015/15090r-masaram-gondi.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Mandaic",
+	"link": "http://www.unicode.org/L2/L2008/08270r-n3485r-mandaic.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Manichaean",
+	"link": "http://www.unicode.org/L2/L2011/11123r-n4029r-manichaean.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Medefaidrin",
+	"link": "http://www.unicode.org/L2/L2016/16101r-medefaidrin.pdf",
+	"contact": "Rovenchak et. al."},
+	
+	{"name": "Meetei Mayek",
+	"link": "http://www.unicode.org/L2/L2008/08232r-n3473r-meetei-mayek.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Meetei Mayek Extended",
+	"link": "http://www.unicode.org/L2/L2008/08239r-n3478r-meetei-mayek-ext.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Mende Kikakui",
+	"link": "http://www.unicode.org/L2/L2012/12023-n4167-mende.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Meroitic Cursive and Meroitic Hieroglyphs",
+	"link": "http://www.unicode.org/L2/L2009/09250-n3665-meroitic.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Miao",
+	"link": "http://www.unicode.org/L2/L2010/10093-n3789-miao.pdf",
+	"contact": "China, Ireland and UK"},
+	
+	{"name": "Modi",
+	"link": "http://www.unicode.org/L2/L2011/11212r2-n4034-modi.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Multani",
+	"link": "http://www.unicode.org/L2/L2012/12316-multani.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Myanmar (additions for Karen and Kayah)",
+	"link": "http://www.unicode.org/L2/L2006/06303-n3142-myanmar-karen-kayah.pdf",
+	"contact": "Everson and Hosken"},
+	
+	{"name": "Myanmar (additions for Shan and Palaung)",
+	"link": "http://www.unicode.org/L2/L2006/06304-n3143-myanmar-shan-palaung.pdf",
+	"contact": "Everson and Hosken"},
+	
+	{"name": "Nabataean",
+	"link": "http://www.unicode.org/L2/L2010/10473-n3969-nabataean.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Nandinagari",
+	"link": "http://www.unicode.org/L2/L2017/17162-nandinagari.pdf",
+	"contact": "Pandey"},
+	
+	{"name": "Newa (Nepaalalipi)",
+	"link": "http://www.unicode.org/L2/L2014/14285r3-newa.pdf",
+	"contact": "Whistler, Pandey, Manandhar et al."},
+	
+	{"name": "N'Ko",
+	"link": "http://www.unicode.org/L2/L2004/04172-n2765-nko.pdf",
+	"contact": "Everson, Doumbouya, Diané and Jammeh"},
+	
+	
+	{"name": "N'Ko additions",
+	"link": "http://www.unicode.org/L2/L2015/15338-n4706-nko-additions.pdf",
+	"contact": "Everson et al."},
+	
+	
+	
+	{"name": "Nyiakeng Puachue Hmong",
+	"link": "https://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Ol Chiki",
+	"link": "http://www.unicode.org/L2/L2005/05243r-n2984-ol-chiki.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old Hungarian",
+	"link": "http://www.unicode.org/L2/L2012/12168r-n4268r-oldhungarian.pdf",
+	"contact": "Everson and Szelp"},
+	
+	
+	{"name": "Old Italic",
+	"link": "http://www.evertype.com/standards/iso10646/pdf/old-italic.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old Italic (additions)",
+	"link": "http://www.unicode.org/L2/L2015/15181-n4669-olditalic.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old North Arabian",
+	"link": "http://www.unicode.org/L2/L2010/10376-n3937-north-arabian.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old Permic",
+	"link": "http://www.unicode.org/L2/L2012/12137-n4263-permic.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old Persian",
+	"link": "http://www.unicode.org/L2/L2003/03149r-n2583r-old-persian.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Old South Arabian",
+	"link": "http://www.unicode.org/L2/L2008/08044-osa.pdf",
+	"contact": "Mansour and Maktari"},
+	
+	
+	{"name": "Old Turkic",
+	"link": "http://www.unicode.org/L2/L2007/07325r-n3357r-old-turkic.pdf",
+	"contact": "Everson and Silamu"},
+	
+	
+	{"name": "Old Uyghur",
+	"link": "https://www.unicode.org/L2/L2020/20191-old-uyghur.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Pahawh Hmong",
+	"link": "http://www.unicode.org/L2/L2012/12013-n4175-pahawh-hmong.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Palmyrene",
+	"link": "http://www.unicode.org/L2/L2010/10255r-n3867r-palmyrene.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Pau Cin Hau",
+	"link": "http://www.unicode.org/L2/L2011/11104r-paucinhau-alphabet.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Phoenician",
+	"link": "http://www.unicode.org/L2/L2004/04141r2-n2746r2-phoenician.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Psalter Pahlavi",
+	"link": "http://www.unicode.org/L2/L2011/11147-n4040-psalter-pahlavi.pdf",
+	"contact": "Everson and Pournader"},
+	
+	
+	{"name": "Rejang",
+	"link": "http://www.unicode.org/L2/L2006/06139-n3096-rejang.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Rumi Numeral Symbols",
+	"link": "http://www.unicode.org/L2/L2006/06126-n3087.pdf",
+	"contact": "Lazrek"},
+	
+	
+	{"name": "Samaritan",
+	"link": "http://www.unicode.org/L2/L2008/08024-n3377-samaritan.pdf",
+	"contact": "Everson and Shoulson"},
+	
+	
+	{"name": "Saurashtra",
+	"link": "http://www.unicode.org/L2/L2005/05222r2-n2969r2-saurashtra.pdf",
+	"contact": "Everson and Krishnamoorty"},
+	
+	
+	{"name": "Sharada",
+	"link": "http://www.unicode.org/L2/L2009/09074r2-n3595-sharada.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Siddham",
+	"link": "http://www.unicode.org/L2/L2012/12234r-n4294-siddham.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "SignWriting",
+	"link": "http://www.unicode.org/L2/L2012/12321-n4342-signwriting.pdf",
+	"contact": "Everson, Slevinski and Sutton"},
+	
+	
+	{"name": "Siyaq (Indic)",
+	"link": "http://www.unicode.org/L2/L2015/15121r2-indic-siyaq.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Siyaq (Ottoman)",
+	"link": "http://www.unicode.org/L2/L2017/17348-ottoman-siyaq.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Sogdian, Old",
+	"link": "http://www.unicode.org/L2/L2016/16312r-old-sogdian.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Sora Sompeng",
+	"link": "http://www.unicode.org/L2/L2009/09189r-n3647r-sora-sompeng.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Soyombo",
+	"link": "http://www.unicode.org/L2/L2015/15004r-soyombo.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Sundanese",
+	"link": "http://www.unicode.org/L2/L2006/06002-n3022-sundanese.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Sundanese Supplement (historic characters)",
+	"link": "http://www.unicode.org/L2/L2009/09251r-n3666r-sundanese.pdf",
+	"contact": "Everson"},
+	
+	
+	{"name": "Tangsa",
+	"link": "http://www.unicode.org/L2/L2021/21027r-tangsa.pdf",
+	"contact": "Stephen Morey"},
+	
+	
+	{"name": "Tai Tham (Lanna)",
+	"link": "http://www.unicode.org/L2/L2007/07007r-n3207r-lanna.pdf",
+	"contact": "Everson and Hosken"},
+	
+	
+	{"name": "Tai Viet",
+	"link": "http://www.unicode.org/L2/L2007/07099-n3220.pdf",
+	"contact": "Viet and Brase"},
+	
+	
+	{"name": "Takri",
+	"link": "https://www.unicode.org/L2/L2009/09424-takri.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Tangut (Xixia)",
+	"link": "http://www.unicode.org/L2/L2014/14023-n4522-tangut.pdf",
+	"contact": "UK et al."},
+	
+	
+	{"name": "Tirhuta",
+	"link": "http://www.unicode.org/L2/L2011/11175r-tirhuta.pdf",
+	"contact": "Pandey"},
+	
+	
+	{"name": "Toto",
+	"link": "https://www.unicode.org/L2/L2019/19330-toto-script.pdf",
+	"contact": "Anderson"},
+	
+	
+	{"name": "Unified Canadian Aboriginal Syllabics Extended",
+	"link": "http://www.unicode.org/L2/L2008/08342-n3507-syllabics.pdf",
+	"contact": "Everson and Harvey"},
+	
+	
+	{"name": "Vai",
+	"link": "https://www.unicode.org/L2/L2005/05159-n2948-vai.pdf",
+	"contact": "Everson, Nyei, Riley and Sherman"},
+	
+	{"name": "Vedic Extensions",
+	"link": "http://www.unicode.org/L2/L2008/08050r-n338r3-vedic-summary.pdf",
+	"contact": "Everson and Scharf"},
+	
+	{"name": "Vithkuqi",
+	"link": "https://www.unicode.org/L2/L2020/20187r2-n5138r2-vithkuqi.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Wancho",
+	"link": "https://www.unicode.org/L2/L2017/17067r2-n4787r2-wancho.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Warang Citi",
+	"link": "http://www.unicode.org/L2/L2012/12118-n4259-warang-citi.pdf",
+	"contact": "Everson"},
+	
+	{"name": "Yezidi",
+	"link": "https://www.unicode.org/L2/L2019/19051r-yezidi.pdf",
+	"contact": "Karaca et al."},
+
+	
+	{"name": "Zanabazar Square",
+	"link": "http://www.unicode.org/L2/L2015/15337-zanabazar-square.pdf",
+	"contact": "Pandey"}
+	
+	
+		
+		
+	]

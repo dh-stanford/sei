@@ -1,0 +1,22 @@
+---
+title: "News"
+date: 2014-11-01
+permalink: "news.html"
+layout: "layouts/post.njk"
+pagination:
+  data: collections.post
+  alias: posts
+  size: 100
+  reverse: true
+---
+
+{% for post in posts %}
+<h3>{{ post.data.title }}</h3>
+<p>{{ post.templateContent}}</p>
+{% endfor %}
+
+
+
+
+  
+</div>
