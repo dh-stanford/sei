@@ -5,8 +5,8 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-01-08T18:35:45Z</updated>
-	<id>https://sei.stanford.edu/</id>
+	<updated>2023-01-08T18:50:08Z</updated>
+	<id>https://digital-humanities.stanford.edu/sei/</id>
 	<author>
 		<name>Deborah Anderson</name>
 		<email>dwanders@berkeley.edu</email>
@@ -173,9 +173,9 @@
 		<content type="html">&lt;p&gt;Thanks to financial support from the &lt;a href=&quot;http://www.hluce.org/&quot;&gt;Henry Luce Foundation&lt;/a&gt;
 and the Unicode Consortium, SEI helped to organize a meeting in Hohhot, Inner Mongolia to address issues involving the representation of the Mongolian script.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.unicode.org/L2/L2017/17347-n4893-mongolian-ad-hoc.pdf&quot;&gt;Link to the Mongolian ad hoc report&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/static/img/mongolia.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sei/static/img/mongolia.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;The Mongolian meeting was preceded by meetings with users of two other scripts, Naxi Dongba and Shuishu (see photo below), which was attended by Deborah Anderson and others.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/static/img/mongolia2.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sei/static/img/mongolia2.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -219,7 +219,7 @@ and the Unicode Consortium, SEI helped to organize a meeting in Hohhot, Inner Mo
 		<id>/news/2016-11/</id>
 		<content type="html">&lt;p&gt;The UTC discussed the Khitan Small Script proposal, Proto-Cuneiform, and Egyptian hieroglyphs.&lt;/p&gt;
 &lt;p&gt;In mid-November, Deborah Anderson travelled to Fresno, California, to meet with Cher Vang Kong, creator of the Nyiakeng Puachue Hmong, and to discuss getting the script into Unicode.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/static/img/CherVangKong.jpg&quot; alt=&quot;Deborah Anderson and Cher Vang Kong&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sei/static/img/CherVangKong.jpg&quot; alt=&quot;Deborah Anderson and Cher Vang Kong&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -239,7 +239,7 @@ and the Unicode Consortium, SEI helped to organize a meeting in Hohhot, Inner Mo
 		<id>/news/2016-08/</id>
 		<content type="html">&lt;p&gt;The August UTC approved proposals from SEI for three medieval punctuation characters.&lt;/p&gt;
 &lt;p&gt;With support from the Luce Foundation, SEI participated in a meeting in Yinchuan, China on the Khitan scripts.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/static/img/yinchuan.jpg&quot; alt=&quot;Photo from Yinchuan, China&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sei/static/img/yinchuan.jpg&quot; alt=&quot;Photo from Yinchuan, China&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
