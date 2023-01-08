@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unicode 14.0 posters | Script Encoding Initiative</title>
+  <meta name="description" content="Encoding scripts in Unicode since 2002.">
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/static/css/main.css" media="all">
+
+</head>
+<body>
+  <nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/">Script Encoding Initiative</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="scripts-to-encode.html">
+          Scripts to encode
+        </a>
+        <a class="navbar__link " href="progress.html">
+          Progress
+        </a>
+        <a class="navbar__link " href="news.html">
+          News
+        </a>
+        <a class="navbar__link " href="press.html">
+          Press
+        </a>
+        <a class="navbar__link " href="about-us.html">
+          About us
+        </a>
+        <a class="navbar__link " href="how-to-donate.html">
+          Donate
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+  </div>
+
+</nav>
+
+  
+<div class="container-sm">
+  <h1>Unicode 14.0 posters</h1>
+  <p><img src="/static/img/unicode_posters.jpg" alt="Unicode 14 posters"></p>
+<p>The new Unicode 14.0 posters created by ANRT and IDG, now available in limited quantities to North American residents!</p>
+<p>A donation of $50 to or more to the Script Encoding Initiative entitles you to receive a poster showing all writing systems on Unicode 14.0 and beyond. This third revised edition of the World’s Writing Systems poster was created by the Atelier National de Recherche Typographique (ANRT), Nancy, France, Institut Designlabor Gutenberg (IDG), Hochschule Mainz, Germany with research provided by SEI. The silk screen posters measure 80 × 120 cm (approx. 31.5” × 47” or 2.6 × 3.9 feet).</p>
+<p>There are two different versions, providing different views on writing systems of the world with one reference glyph per script: — one poster arranged chronologically, and the other poster arranged geographically and chronologically.  For a donation of $75, you can receive both posters.</p>
+<h2>Unicode 5.0 BMP poster created by DecodeUnicode</h2>
+<p><img src="/static/img/unicode5_poster.jpg" alt="Unicode 5 poster"></p>
+<p>A donation of $50 or more to the Script Encoding Initiative entitles you to receive a poster showing all the characters on Unicode 5.0's Basic Multilingual Plane (BMP). Created by the decodeunicode project, the poster measures 1.17 × 1.75 m (approximately 3'10&quot; × 5' 9&quot;).</p>
+<p>NOTE: As quantities are limited, it is important to take advantage of this offer soon. Once the supply is depleted, the entire contribution will be treated as a donation. However, we will make every attempt to keep this webpage up only as long as supplies last.</p>
+<p>Donations are tax-deductible in the U.S., less the cost of the poster, approximately $17. A receipt will be sent to donors.</p>
+<p>You can also send a check, made payable to &quot;UC Regents&quot; and mailed to the address below.</p>
+<p>Please indicate whether you wish to receive the poster and the address where it should be sent.</p>
+<p>Script Encoding Initiative
+c/o Deborah Anderson
+University of California, Berkeley
+Department of Linguistics
+1203 Dwinelle Hall #2650
+Berkeley, CA 94720-2650
+USA</p>
+<p>This offer has been made possible from the kind support of the decodeunicode project, particularly Johannes Bergerhausen, at the University of Applied Sciences, Mainz, Germany.</p>
+<p>Donations to SEI help support SEI work. Funds are used primarily to pay script encoding specialists and graduate students to do research, write script proposals, and to create fonts on a per-script basis. Funding also covers research-related travel, administrative costs, and website maintenance. SEI's <a href="progress.html">Progress page</a> gives an overview of project achievements.</p>
+
+
+  <br><hr>
+  <a href="/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+
+<div class="footertop"
+<p><a href="how-to-donate.html">Join</a> our <a href="donors.html">donors</a> today and help to promote native-language education, universal literacy and cultural preservation. Many thanks to:</p>
+<br / >
+</div>
+<div class="logos">
+<img class="logo" src="/static/img/neh_logo.png"/>
+<img class="logo" src="/static/img/adobe.svg" />
+<img class="logo" src="/static/img/unesco.svg" />
+<img class="logo" src="/static/img/wikimedia_foundation.svg" />
+<img class="logo" src="/static/img/google_2015.svg" />
+<img class="logo" src="/static/img/luce.jpeg" />
+<img class="logo" src="/static/img/monotype.jpeg" />
+</div>
+</footer>
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

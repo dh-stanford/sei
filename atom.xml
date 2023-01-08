@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Script Encoding Initiative</title>
+	<subtitle>Encoding scripts in Unicode since 2002</subtitle>
+	
+	<link href="/atom.xml" rel="self"/>
+	<link href=""/>
+	<updated>2023-01-08T18:35:45Z</updated>
+	<id>https://sei.stanford.edu/</id>
+	<author>
+		<name>Deborah Anderson</name>
+		<email>dwanders@berkeley.edu</email>
+	</author>
+	
+	<entry>
+		<title>September 2022</title>
+		<link href="/news/2022-09/"/>
+		<updated>2022-09-01T00:00:00Z</updated>
+		<id>/news/2022-09/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson gave a short description of the encoding process in a video &amp;quot;&lt;a href=&quot;https://www.youtube.com/watch?v=NkUea5gEuV8&amp;amp;list=PLMc927ywQmTNQrscw7yvaJbAbMJDIjeBh&amp;amp;index=3&quot;&gt;Scripts and Character Encoding&lt;/a&gt;&amp;quot;, which is part of Overview of Internationalization and Unicode Projects webinar.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>May 2022</title>
+		<link href="/news/2022-05/"/>
+		<updated>2022-05-01T00:00:00Z</updated>
+		<id>/news/2022-05/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson wrote an article entitled “&lt;a href=&quot;https://thelinguist.uberflip.com/&quot; target=&quot;_blank&quot;&gt;Supported Scripts&lt;/a&gt;” for the magazine “The Linguist” Issue 61/2 April-May 2022.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>April 2022</title>
+		<link href="/news/2022-04/"/>
+		<updated>2022-04-01T00:00:00Z</updated>
+		<id>/news/2022-04/</id>
+		<content type="html">&lt;p&gt;The Institute for Comparative Literature and Society at Columbia University hosted a panel &amp;quot;&lt;a href=&quot;https://icls.columbia.edu/events/unique-unified-universal-excavating-unicodes-role-in-the-multilingual-digital-sphere/&quot;&gt;Unique, Unified, Universal: Excavating Unicode&#39;s role in the Multilingual Digital Sphere&lt;/a&gt;,&amp;quot; which was co-sponsored by SEI. The panel included talks by Anshuman Pandey, Keith Murphy, Isabelle Zaugg and Anushah Hossain. Talk by Isabelle Zaugg was on SEI project.  &lt;a href=&quot;https://www.youtube.com/watch?v=1uyGXXvSDGM&quot;&gt;Link to recording of presentations&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>March 2022</title>
+		<link href="/news/2022-03/"/>
+		<updated>2022-03-01T00:00:00Z</updated>
+		<id>/news/2022-03/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson gave a virtual talk at LocWorld46 Africa on “African Scripts on Computers and Devices: An Update”&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2021</title>
+		<link href="/news/2021-10/"/>
+		<updated>2021-10-01T00:00:00Z</updated>
+		<id>/news/2021-10/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson and Anshuman Pandey gave two presentations at the Internationalization &amp;amp; Unicode Conference 45 in Santa Clara CA: “Historical Scripts and Innovations to Unicode Encoding Models”  and “Negotiating Neographies in Unicode: Approaches to Encoding Newly-Invented Scripts”&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>March 2021</title>
+		<link href="/news/2021-03/"/>
+		<updated>2021-03-01T00:00:00Z</updated>
+		<id>/news/2021-03/</id>
+		<content type="html">&lt;p&gt;At the 68th Rocky Mountain Council for Latin American Studies virtual conference, March 2021, Deborah Anderson gave a poster entitled: &amp;quot;&lt;a href=&quot;https://ncodex.org/publications/PUB-01_DA_2021_HQ.pdf&quot;&gt;Making Maya Hieroglyphs Accessible Online via Unicode (and the Script Encoding Initiative Project)&lt;/a&gt;&amp;quot;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>September 2020</title>
+		<link href="/news/2020-09/"/>
+		<updated>2020-09-01T00:00:00Z</updated>
+		<id>/news/2020-09/</id>
+		<content type="html">&lt;p&gt;On September 3, 2020, Deborah Anderson gave a virtual talk on &amp;quot;&lt;a href=&quot;https://drive.google.com/file/d/1nEU3y70DkGcfu85r2yIbZs3H441wTCuV/view&quot;&gt;The Script Encoding Initiative and Unicode&lt;/a&gt;&amp;quot;, as part of the Translation Commons series of talks for UNESCO educators.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>August 2020</title>
+		<link href="/news/2020-08/"/>
+		<updated>2020-08-01T00:00:00Z</updated>
+		<id>/news/2020-08/</id>
+		<content type="html">&lt;p&gt;Thanks to support from the NEH grant, a new Unicode Technical Note #44 “&lt;a href=&quot;https://www.unicode.org/notes/tn44/&quot;&gt;Medieval Latin Character Recommendations&lt;/a&gt;” has been posted. The UTN is by David Perry. The NEH grant also supported the creation of a &lt;a href=&quot;http://scholarsfonts.net/old_italic.html&quot;&gt;freely available Unicode-supported Old Italic font and keyboard&lt;/a&gt;, also by David Perry.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>January 2020</title>
+		<link href="/news/2020-01/"/>
+		<updated>2020-01-01T00:00:00Z</updated>
+		<id>/news/2020-01/</id>
+		<content type="html">&lt;p&gt;The project received a grant from the National Endowment for the Humanities, so work will be able to continue for two more years. Grateful thanks for the ongoing support of NEH and other donors!  Work earmarked for the coming year will include extensions to Egyptian Hieroglyphs and Maya hieroglyphs (the latter with support from a Google Research grant and the Unicode Adopt-a-Character program), as well as work on other historic and modern minority scripts.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>November 2019</title>
+		<link href="/news/2019-11/"/>
+		<updated>2019-11-01T00:00:00Z</updated>
+		<id>/news/2019-11/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson took part in a one-day symposium &amp;quot;Alphabetica 2019&amp;quot;, held in conjunction with the &amp;quot;Missing Scripts&amp;quot; exhibit in the Den Haag, the Netherlands.  The talk is available &lt;a href=&quot;https://www.youtube.com/watch?v=we4IsenFg4Q&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2019</title>
+		<link href="/news/2019-10/"/>
+		<updated>2019-10-01T00:00:00Z</updated>
+		<id>/news/2019-10/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson and Anshuman Pandey gave a presentation entitled “Unencoded Scripts in the Unicode Standard: The 2019 Update” at the Internationalization and Unicode Conference in Santa Clara, CA.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2019</title>
+		<link href="/news/2018-09/"/>
+		<updated>2019-10-01T00:00:00Z</updated>
+		<id>/news/2018-09/</id>
+		<content type="html">&lt;p&gt;At the Internationalization and Unicode Conference in Santa Clara, California (Sept. 10--12, 2018), Deborah Anderson will be co-presenting with long-time SEI script proposal author Anshuman Pandey a talk entitled, &amp;quot;Undeciphered Scripts in the Unicode Age: Challenges for Encoding Early Writing Systems of the Near East.&amp;quot;  (Dr. Pandey is also speaking on &amp;quot;Developing a Successful Proposal for Encoding a Script in Unicode.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;The conference program is available &lt;a href=&quot;http://www.unicodeconference.org/program.htm&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>June 2018</title>
+		<link href="/news/2018-06/"/>
+		<updated>2018-06-01T00:00:00Z</updated>
+		<id>/news/2018-06/</id>
+		<content type="html">&lt;p&gt;In order to make progress on a Unicode proposal for Egyptian Hieroglyphs extensions, SEI organized a meeting of Egyptologists and script encoding experts at the University College London Centre for Digital Humanities from June 14–15, 2018.&lt;/p&gt;
+&lt;p&gt;The meeting report is posted &lt;a href=&quot;http://www.unicode.org/L2/L2018/18237-mtg-rept-london.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>June 2018</title>
+		<link href="/news/2018-06-01/"/>
+		<updated>2018-06-01T00:00:00Z</updated>
+		<id>/news/2018-06-01/</id>
+		<content type="html">&lt;p&gt;Carlos Pallán and Deborah Anderson co-presented the paper “Achieving Machine-Readable Mayan Text via Unicode” at the Digital Humanities conference in Mexico City (26–29 June).  Deborah also gave a short paper “Bridging the divide: Supporting minority and historic scripts in fonts.”&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>April 2018</title>
+		<link href="/news/2018-04/"/>
+		<updated>2018-04-01T00:00:00Z</updated>
+		<id>/news/2018-04/</id>
+		<content type="html">&lt;p&gt;SEI assisted in organizing a second meeting on Mongolian script issues was held in San Jose, California, with funding from the &lt;a href=&quot;http://www.hluce.org/&quot; target=&quot;_blank&quot;&gt;Henry Luce Foundation&lt;/a&gt; and the Unicode Consortium.&lt;/p&gt;
+&lt;p&gt;A third meeting is planned for April or May 2019 in Ulaanbaatar, Mongolia. The meeting report is available &lt;a href=&quot;http://www.unicode.org/L2/L2018/18108-mwg2-14-meeting-report.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>February 2018</title>
+		<link href="/news/2018-02/"/>
+		<updated>2018-02-01T00:00:00Z</updated>
+		<id>/news/2018-02/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson gave a presentation as part of the public lecture series in Global Language Justice at Columbia University entitled “Preserving the World’s Languages and Cultures (through character encoding)” on February 15, 2018.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2017</title>
+		<link href="/news/2017-10/"/>
+		<updated>2017-10-01T00:00:00Z</updated>
+		<id>/news/2017-10/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson will gave a presentation as part of a panel at the &lt;a href=&quot;http://www.unicodeconference.org/&quot;&gt;41st Internationalization and Unicode Conference&lt;/a&gt; in Santa Clara. The panel was on handling variants in historic scripts, and will also include presentations by Adam Anderson (Mellon Postdoctoral Fellow in the Digital Humanities, UC Berkeley) and Kamal Mansour (Monotype).&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>September 2017</title>
+		<link href="/news/2017-09/"/>
+		<updated>2017-09-01T00:00:00Z</updated>
+		<id>/news/2017-09/</id>
+		<content type="html">&lt;p&gt;Thanks to financial support from the &lt;a href=&quot;http://www.hluce.org/&quot;&gt;Henry Luce Foundation&lt;/a&gt;
+and the Unicode Consortium, SEI helped to organize a meeting in Hohhot, Inner Mongolia to address issues involving the representation of the Mongolian script.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unicode.org/L2/L2017/17347-n4893-mongolian-ad-hoc.pdf&quot;&gt;Link to the Mongolian ad hoc report&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/img/mongolia.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Mongolian meeting was preceded by meetings with users of two other scripts, Naxi Dongba and Shuishu (see photo below), which was attended by Deborah Anderson and others.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/img/mongolia2.jpg&quot; alt=&quot;Picture from Mongolia&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>August 2017</title>
+		<link href="/news/2017-08/"/>
+		<updated>2017-08-01T00:00:00Z</updated>
+		<id>/news/2017-08/</id>
+		<content type="html">&lt;p&gt;The August Unicode Technical Committee approved the Wancho script, a script used to write the Wancho language, which is spoken in eastern India, and parts of Bangladesh and India.  Work on Wancho was supported by SEI. &lt;a href=&quot;http://www.unicode.org/L2/L2017/17067r-n4787r-wancho.pdf&quot;&gt;Link to proposal&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>June 2017</title>
+		<link href="/news/2017-06/"/>
+		<updated>2017-06-01T00:00:00Z</updated>
+		<id>/news/2017-06/</id>
+		<content type="html">&lt;p&gt;Unicode 10.0 was published, and three of the four new scripts in version 10.0 were supported by SEI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Masaram Gondi&lt;/li&gt;
+&lt;li&gt;Soyombo&lt;/li&gt;
+&lt;li&gt;Zanabazar Square&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All three were to the hard work of Anshuman Pandey.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>December 2016</title>
+		<link href="/news/2016-12/"/>
+		<updated>2016-12-01T00:00:00Z</updated>
+		<id>/news/2016-12/</id>
+		<content type="html">&lt;p&gt;The project received a Preservation and Access grant from NEH for work in 2017–2018. The Universal Scripts Project, which is the NEH-funded portion of the project, was one of eight successful grants in the Preservation and Access Research and Development program. &lt;a href=&quot;http://news.berkeley.edu/2016/12/15/history-museum-and-languages-benefit-from-neh-awards-for-berkeley-projects/&quot;&gt;Link to an article&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>November 2016</title>
+		<link href="/news/2016-11/"/>
+		<updated>2016-11-01T00:00:00Z</updated>
+		<id>/news/2016-11/</id>
+		<content type="html">&lt;p&gt;The UTC discussed the Khitan Small Script proposal, Proto-Cuneiform, and Egyptian hieroglyphs.&lt;/p&gt;
+&lt;p&gt;In mid-November, Deborah Anderson travelled to Fresno, California, to meet with Cher Vang Kong, creator of the Nyiakeng Puachue Hmong, and to discuss getting the script into Unicode.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/img/CherVangKong.jpg&quot; alt=&quot;Deborah Anderson and Cher Vang Kong&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>November 2016</title>
+		<link href="/news/2016-11-01/"/>
+		<updated>2016-11-01T00:00:00Z</updated>
+		<id>/news/2016-11-01/</id>
+		<content type="html">&lt;p&gt;At the Internationalization and Unicode Conference, Deborah Anderson gave a talk on 2 November, 2016, &amp;quot;Script Encoding, Part 2: Working with the User Community&amp;quot;. &lt;a href=&quot;http://www.unicodeconference.org/program.htm.&quot;&gt;An abstract can be found here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>August 2016</title>
+		<link href="/news/2016-08/"/>
+		<updated>2016-08-01T00:00:00Z</updated>
+		<id>/news/2016-08/</id>
+		<content type="html">&lt;p&gt;The August UTC approved proposals from SEI for three medieval punctuation characters.&lt;/p&gt;
+&lt;p&gt;With support from the Luce Foundation, SEI participated in a meeting in Yinchuan, China on the Khitan scripts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/static/img/yinchuan.jpg&quot; alt=&quot;Photo from Yinchuan, China&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>July 2016</title>
+		<link href="/news/2016-07/"/>
+		<updated>2016-07-01T00:00:00Z</updated>
+		<id>/news/2016-07/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson gave a long paper presentation with Carlos Pallán Gayol (University of Bonn), entitled, &amp;quot;Unlocking the Mayan Script with Unicode&amp;quot; at the Digital Humanities 2016 conference in Kraków, Poland. &lt;a href=&quot;https://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf&quot;&gt;The slides are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>June 2016</title>
+		<link href="/news/2016-06/"/>
+		<updated>2016-06-01T00:00:00Z</updated>
+		<id>/news/2016-06/</id>
+		<content type="html">&lt;p&gt;The Unicode Consortium awarded SEI a grant to fund work on the &lt;a href=&quot;http://blog.unicode.org/2016/06/encoding-mayan-script-your-adopt.html&quot;&gt;Mayan script&lt;/a&gt; in 2017.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>May 2016</title>
+		<link href="/news/2016-05/"/>
+		<updated>2016-05-01T00:00:00Z</updated>
+		<id>/news/2016-05/</id>
+		<content type="html">&lt;p&gt;The May 2016 UTC approved the Medefaidrin script, which was used to write the Medefaidrin language, and a Kathi character, both of which were supported by SEI.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>April 2016</title>
+		<link href="/news/2016-04/"/>
+		<updated>2016-04-01T00:00:00Z</updated>
+		<id>/news/2016-04/</id>
+		<content type="html">&lt;p&gt;Deborah Anderson gave a presentation at the annual meeting of the American Research Center in Egypt (ARCE) in Atlanta. The talk was entitled, “Hieroglyphs in Unicode: Progress Towards a Universal Computing Standard”.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>February 2016</title>
+		<link href="/news/2016-02/"/>
+		<updated>2016-02-01T00:00:00Z</updated>
+		<id>/news/2016-02/</id>
+		<content type="html">&lt;p&gt;At the late January 2016 meeting, the Unicode Technical Committee approved several SEI-supported characters, including additions to N&#39;Ko, Latin, Soyombo, Zanabazar Square, and Devanagari.&lt;/p&gt;
+&lt;p&gt;Several script proposals which had SEI support were also discussed, including&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Medefaidrin&lt;/li&gt;
+&lt;li&gt;Nandinagari&lt;/li&gt;
+&lt;li&gt;Pau Cin Hau Syllabary&lt;/li&gt;
+&lt;li&gt;Ranjana/Lantsa&lt;/li&gt;
+&lt;li&gt;Old Sogdian&lt;/li&gt;
+&lt;li&gt;and an extension to Egyptian Hieroglyphs.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>November 2015</title>
+		<link href="/news/2015-11/"/>
+		<updated>2015-11-01T00:00:00Z</updated>
+		<id>/news/2015-11/</id>
+		<content type="html">&lt;p&gt;The Unicode Technical Committee met and discussed numerous Unicode proposals. The UTC approved&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dogra&lt;/li&gt;
+&lt;li&gt;Gunjala Gondi&lt;/li&gt;
+&lt;li&gt;Makasar&lt;/li&gt;
+&lt;li&gt;Indic Siyaq&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check out updates for other scripts on → &lt;a href=&quot;/scripts-not-encoded.html&quot;&gt;Scripts Not Encoded&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2015</title>
+		<link href="/news/2015-10/"/>
+		<updated>2015-10-30T00:00:00Z</updated>
+		<id>/news/2015-10/</id>
+		<content type="html">&lt;p&gt;We are glad to present our new designed website by the German design studio &lt;a href=&quot;http://www.dreimeinerkollegen.de/&quot;&gt;Drei meiner Kollegen&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2015</title>
+		<link href="/news/2015-10-30/"/>
+		<updated>2015-10-30T00:00:00Z</updated>
+		<id>/news/2015-10-30/</id>
+		<content type="html">&lt;p&gt;We are glad to present our new designed website by the German design studio &lt;a href=&quot;http://www.dreimeinerkollegen.de/&quot;&gt;Drei meiner Kollegen&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>October 2015</title>
+		<link href="/news/2015-10-01/"/>
+		<updated>2015-10-01T00:00:00Z</updated>
+		<id>/news/2015-10-01/</id>
+		<content type="html">&lt;p&gt;SEI organized a meeting in Tokyo with experts to discuss the Soyombo and Zanabazar Square script proposals. The meeting was made possible through a grant from the Luce Foundation.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&quot;http://www.unicode.org/L2/L2015/15249-mongolia-mtg-rept.pdf&quot;&gt;summary&lt;/a&gt; of the meeting is available.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>August 2015</title>
+		<link href="/news/2015-08/"/>
+		<updated>2015-08-01T00:00:00Z</updated>
+		<id>/news/2015-08/</id>
+		<content type="html">&lt;p&gt;SEI script proposal author Anshuman Pandey and Project Leader Debbie Anderson gave a talk entitled &amp;quot;From Local Script to Global Standard: The Lifecycle of a Script in Unicode&amp;quot; as part of the San Francisco Globalization Meetup. &lt;a href=&quot;/assets/SF-Globalization.pdf&quot;&gt;The presentation slides are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>July 2015</title>
+		<link href="/news/2015-07/"/>
+		<updated>2015-07-01T00:00:00Z</updated>
+		<id>/news/2015-07/</id>
+		<content type="html">&lt;p&gt;The SEI Project Leader Deborah Anderson gave a joint paper at&lt;/p&gt;
+&lt;p&gt;the Digital Humanities conference in Sydney, Australia, with Stephen Morey, Centre for Research on Language Diversity, La Trobe University. The talk was entitled, &amp;quot;Negotiating the Issues of Encoding and Producing Traditional Scripts on Computers -- Working with Unicode&amp;quot;. &lt;a href=&quot;/assets/DH2015.pdf&quot;&gt;The slides are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>June 2015</title>
+		<link href="/news/2015-06/"/>
+		<updated>2015-06-01T00:00:00Z</updated>
+		<id>/news/2015-06/</id>
+		<content type="html">&lt;p&gt;SEI gave a panel presentation entitled &amp;quot;Character encoding in Unicode, transliteration, and the future of multilingual search&amp;quot; at the American Library Association meeting in San Francisco, California, which took place June 27 2015. (The ALA panel was entitled &amp;quot;Managing Transliteration of Bibliographic Data.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/CharacterEncodingStndsTransliteration-rev6.pdf&quot;&gt;The SEI slides are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>November 2014</title>
+		<link href="/news/2014-11/"/>
+		<updated>2014-11-01T00:00:00Z</updated>
+		<id>/news/2014-11/</id>
+		<content type="html">&lt;p&gt;SEI gave a presentation entitled &amp;quot;Expanding the Unicode Repertoire: Unencoded Scripts of Africa and Asia&amp;quot; at the 38th Internationalization and Unicode Conference in Santa Clara, California, which took place November 2014. &lt;a href=&quot;/assets/IUC38Presentation.pdf&quot;&gt;The slides are available here&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
