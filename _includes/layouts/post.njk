@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <div class="container-sm">
   <h1>{{ title }}</h1>
   {% if data.image %}
-  <img src="{{image}}" style="float:right;" / >
+  <img src="{{data.image}}" style="float:right;" / >
   {% endif %}
   {{ content | safe }}
 
