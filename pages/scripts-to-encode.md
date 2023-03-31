@@ -3,9 +3,8 @@ title: "Scripts to Encode"
 date: 2014-11-01
 permalink: "scripts-to-encode.html"
 layout: "layouts/post.njk"
+image: "/sei/static/img/twodocs.jpg"
 ---
-
-![Two documents](/sei/static/img/twodocs.jpg)
 
 
 The SEI maintains:
